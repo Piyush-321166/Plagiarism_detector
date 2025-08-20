@@ -15,21 +15,21 @@ It supports **text (`.txt`)** and **PDF (`.pdf`)** files, uses **TF-IDF similari
 
 ---
 
-## ⚙️ Installation
+⚙️ **Installation**
 
-### 1. Clone the repository
+1. Clone the repository  
 ```bash
 git clone https://github.com/<your-username>/plagiarism_detector.git
 cd plagiarism_detector
 
-**2. Create a virtual environment**
+2. Create a virtual environment
 
-```bash
 python -m venv .venv
 .venv\Scripts\activate     # On Windows
 source .venv/bin/activate  # On Linux/Mac
 
 3. Run the plagiarism detector with:
+
 python detector.py --query sample_data/query.pdf --refs sample_data/doc1.txt sample_data/doc2.txt sample_data/doc3.txt sample_data/doc4.txt sample_data/doc5.txt --report report.html
 
 
