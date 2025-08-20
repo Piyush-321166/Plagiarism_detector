@@ -21,8 +21,8 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/<your-username>/plagiarism-detector.git
-cd plagiarism-detector
+git clone https://github.com/<your-username>/plagiarism_detector.git
+cd plagiarism_detector
 
 
 Create a virtual environment:
