@@ -1,1 +1,1 @@
-# Plagiarism_detector
+# Plagiarism Detector\n\nRun `python detector.py --query query.txt --refs ref1.txt ref2.txt --report report.html`
